@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">organizer</string>
+    <string name="textView">Name: Jeff Herman</string>
+    <string name="textName">Jeff</string>
+    <string name="radioText">View Profile</string>
+    <string name="profileBox">Enter your biographical information: \n \n \n  Hello.  My name is Jeff.  \n \n Work: Sales  \n \n Interests: Travel, movies, filmmaking \n \n Favorite Recent Movies: Marvel movies (viz. End Game, Infinity War). \n \n If you have any questions please let me know.</string>
+</resources>
